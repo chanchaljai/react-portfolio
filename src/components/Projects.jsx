@@ -14,12 +14,25 @@ const projects = [
     description: "Building......",
     link: "https://your-project-link.com",
   },
+   {
+    id: 3,
+    title: "Social Media App",
+    description: "Building......",
+    link: "https://your-project-link.com",
+  },
+   {
+    id: 4,
+    title: "SaS Project",
+    description: "Building......",
+    link: "https://your-project-link.com",
+  },
+  
  
 ];
 
 const Projects = () => {
   return (
-    <section id="projects" className="max-w-6xl mx-auto px-6 py-16">
+    <section id="projects" className="max-w-6xl mx-auto px-6 py-8">
       <h2 className="text-3xl font-bold mb-8">My Projects</h2>
 
       <div className="grid md:grid-cols-2 gap-6">
