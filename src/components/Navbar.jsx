@@ -1,4 +1,5 @@
 import React from "react";
+import resume from "../assets/resume.pdf";
 
 const Navbar = () => {
   return (
@@ -29,7 +30,7 @@ const Navbar = () => {
           </li>
         </ul>
 
-        <button className="border px-4 py-2 rounded-lg text-sm font-medium hover:bg-black hover:text-white transition">
+        <button onClick={() => window.open(resume, "_blank")} className="border px-4 py-2 rounded-lg text-sm font-medium hover:bg-black hover:text-white transition">
           Hire Me
         </button>
       </div>
