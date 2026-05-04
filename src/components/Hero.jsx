@@ -36,7 +36,7 @@ const Hero = () => {
               href={resume}
               target="_blank"
               rel="noopener noreferrer"
-              className="px-5 py-3 rounded-lg border"
+              className="px-5 py-3 rounded-lg border hover:bg-black hover:text-white transition"
             >
               Resume
             </a>
