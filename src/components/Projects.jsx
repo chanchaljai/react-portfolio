@@ -12,7 +12,7 @@ const projects = [
     id: 2,
     title: "School Management System",
     description: "Building......",
-    link: "https://your-project-link.com",
+    link: "https://school-frontend-orpin.vercel.app/",
   },
    {
     id: 3,
