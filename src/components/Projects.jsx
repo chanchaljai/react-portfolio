@@ -22,9 +22,9 @@ const projects = [
   },
    {
     id: 4,
-    title: "SaS Project",
-    description: "Building......",
-    link: "https://your-project-link.com",
+    title: "Landing Page 1",
+    description: "Landing page design with the help of html and css only.",
+    link: "https://landimg-page-1.vercel.app/",
   },
   
  
