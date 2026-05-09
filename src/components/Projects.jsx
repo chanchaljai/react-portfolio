@@ -23,7 +23,7 @@ const projects = [
    {
     id: 4,
     title: "Landing Page 1",
-    description: "Landing page design with the help of html and css only.",
+    description: "Building...Landing page design with the help of html and css only.",
     link: "https://landimg-page-1.vercel.app/",
   },
   
