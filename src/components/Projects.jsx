@@ -16,13 +16,13 @@ const projects = [
   },
    {
     id: 3,
-    title: "Social Media App",
+    title: "Landing Page 1",
     description: "Building......",
     link: "https://your-project-link.com",
   },
    {
     id: 4,
-    title: "Landing Page 1",
+    title: "Landing Page 2",
     description: "Responsive Landing page design with the help of html and css only.",
     link: "https://landimg-page-1.vercel.app/",
   },
