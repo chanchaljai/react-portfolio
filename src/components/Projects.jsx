@@ -5,7 +5,7 @@ const projects = [
      {
     id: 1,
     title: "E-commerce App",
-    description: "Product listing, cart aur admin panel wala project.",
+    description: "auth product cart order and address.",
     link: "https://ecom-project1-frontend.vercel.app/",
   },
   {
