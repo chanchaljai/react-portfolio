@@ -2,7 +2,7 @@
 import React from "react";
 
 const projects = [
-     {
+  {
     id: 1,
     title: "E-commerce App",
     description: "auth product cart order and address.",
@@ -14,20 +14,20 @@ const projects = [
     description: "Building......",
     link: "https://school-frontend-orpin.vercel.app/",
   },
-   {
+  {
     id: 3,
     title: "Landing Page 1",
-    description: "Responsive Landing page design with the help of html and css only.",
-    link: "https://landing-page-2-vert.vercel.app/",
-  },
-   {
-    id: 4,
-    title: "Landing Page 2",
-    description: "Responsive Landing page design with the help of html and css only.",
+    description:
+      "Responsive Landing page design with the help of html and css only.",
     link: "https://landimg-page-1.vercel.app/",
   },
-  
- 
+  {
+    id: 4,
+    title: "Landing Page 2",
+    description:
+      "Responsive Landing page design with the help of html and css only.",
+    link: "https://landing-page-2-vert.vercel.app/",
+  },
 ];
 
 const Projects = () => {
@@ -37,10 +37,7 @@ const Projects = () => {
 
       <div className="grid md:grid-cols-2 gap-6">
         {projects.map((project) => (
-          <div
-            key={project.id}
-            className="border rounded-lg p-5 shadow-sm"
-          >
+          <div key={project.id} className="border rounded-lg p-5 shadow-sm">
             <h3 className="text-xl font-semibold mb-2">{project.title}</h3>
             <p className="text-gray-600 mb-4">{project.description}</p>
 
