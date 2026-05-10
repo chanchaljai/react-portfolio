@@ -28,6 +28,13 @@ const projects = [
       "Responsive Landing page design with the help of html and css only.",
     link: "https://landing-page-2-vert.vercel.app/",
   },
+  {
+    id: 5,
+    title: "Landing Page 3",
+    description:
+      "Landing page design with the help of html css and javascript, Add Animations with GSAP.",
+    link: "https://landing-page-3-self-eight.vercel.app/",
+  },
 ];
 
 const Projects = () => {
