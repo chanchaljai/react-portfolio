@@ -17,7 +17,7 @@ const projects = [
    {
     id: 3,
     title: "Landing Page 1",
-    description: "Building......",
+    description: "Building.....",
     link: "https://your-project-link.com",
   },
    {
