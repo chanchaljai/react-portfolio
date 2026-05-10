@@ -17,8 +17,8 @@ const projects = [
    {
     id: 3,
     title: "Landing Page 1",
-    description: "Building.....",
-    link: "https://your-project-link.com",
+    description: "Responsive Landing page design with the help of html and css only.",
+    link: "https://landing-page-2-vert.vercel.app/",
   },
    {
     id: 4,
