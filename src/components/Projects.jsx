@@ -12,7 +12,7 @@ const projects = [
     id: 2,
     title: "School Management System",
      description:
-    "A multi-role School Management System (Admin, Accountant, Class Teacher, Student) with separate dashboards for each role. Currently in development phase, focused on managing academics, finance, attendance, and student activities efficiently.",
+    "A multi-role School Management System (Admin, Accountant, Class Teacher, Student) with separate dashboards for each role. Currently in development phase.",
     link: "https://school-frontend-orpin.vercel.app/",
   },
   {
