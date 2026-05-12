@@ -4,7 +4,7 @@ import resume from "../assets/resume.pdf";
 
 const Hero = () => {
   return (
-    <section id="home" className="max-w-6xl mx-auto px-6 py-16 md:py-14">
+    <section id="home" className="max-w-6xl mx-auto  px-6 py-16 md:py-14">
       <div className="grid md:grid-cols-2 gap-10 items-center">
         {/* Left side */}
         <div>
