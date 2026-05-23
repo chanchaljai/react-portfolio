@@ -10,10 +10,10 @@ const projects = [
   },
   {
     id: 2,
-    title: "School Management System",
+    title: "Shoe-Store",
      description:
-    "A multi-role School Management System (Admin, Accountant, Class Teacher, Student) with separate dashboards for each role.",
-    link: "https://school-frontend-orpin.vercel.app/",
+      "Built a Responsive Shoe Brand Landing Page with the help of react and tailwind css.",
+    link: "https://shoe-brand-mu.vercel.app/",
   },
   {
     id: 3,
