@@ -3,7 +3,7 @@ import resume from "../assets/resume.pdf";
 
 const Navbar = () => {
   return (
-    <nav className="w-full border-b ">
+    <nav className="w-full border ">
       <div className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
         <h1 className="text-2xl font-bold">Chanchal</h1>
 
