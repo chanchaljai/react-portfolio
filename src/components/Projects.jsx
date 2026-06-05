@@ -27,7 +27,7 @@ const projects = [
     id: 4,
     title: "InAmigos foundation Landing Page",
     description:
-      "Responsive Landing page design with the hlp of react and tailwind css and javascript.",
+      "Responsive Landing page design with the help of react and tailwind css and javascript.",
     link: "https://in-amigos-page.vercel.app/",
   },
   {
