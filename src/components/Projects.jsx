@@ -5,32 +5,40 @@ const projects = [
   {
     id: 1,
     title: "E-commerce App",
-    description: "E-Commerce app with secure authentication, product browsing, cart, order, and address management",
+    description:
+      "E-Commerce app with secure authentication, product browsing, cart, order, and address management",
     link: "https://ecom-project1-frontend.vercel.app/",
   },
   {
     id: 2,
+    title: "Multi-Role-Dashboard",
+    description:
+      "A secure Multi-Role Dashboard with JWT-based authentication and role-based access control for Admin, User, and Manager roles. It ensures protected routes and controlled permissions using token verification with a scalable MERN architecture.",
+    link: "https://mrdb-1-frontend.vercel.app/",
+  },
+  {
+    id: 3,
     title: "Shoe-Store",
-     description:
+    description:
       "Built a Responsive Shoe Brand Landing Page with the help of react and tailwind css.",
     link: "https://shoe-brand-mu.vercel.app/",
   },
   {
-    id: 3,
+    id: 4,
     title: "InAmigos foundation Landing Page",
     description:
       "Responsive Landing page design with the hlp of react and tailwind css and javascript.",
     link: "https://in-amigos-page.vercel.app/",
   },
   {
-    id: 4,
+    id: 5,
     title: "Landing Page 2",
     description:
       "Responsive Landing page design with the help of html and css only.",
     link: "https://landing-page-2-vert.vercel.app/",
   },
   {
-    id: 5,
+    id: 6,
     title: "Landing Page 3",
     description:
       "Landing page design with the help of html css and javascript, Add Animations with GSAP.",
