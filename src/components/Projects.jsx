@@ -4,17 +4,18 @@ import React from "react";
 const projects = [
   {
     id: 1,
-    title: "E-commerce App",
-    description:
-      "E-Commerce app with secure authentication, product browsing, cart, order, and address management",
-    link: "https://ecom-project1-frontend.vercel.app/",
-  },
-  {
-    id: 2,
     title: "Multi-Role-Dashboard",
     description:
       "A secure Multi-Role Dashboard with JWT-based authentication and role-based access control for Admin, User, and Manager roles. It ensures protected routes and controlled permissions using token verification with a scalable MERN architecture.",
     link: "https://mrdb-1-frontend.vercel.app/",
+  },
+
+  {
+    id: 2,
+    title: "E-commerce App",
+    description:
+      "E-Commerce app with secure authentication, product browsing, cart, order, and address management",
+    link: "https://ecom-project1-frontend.vercel.app/",
   },
   {
     id: 3,
