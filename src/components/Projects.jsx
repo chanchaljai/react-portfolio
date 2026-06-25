@@ -16,33 +16,34 @@ const projects = [
       "E-Commerce app with secure authentication, product browsing, cart, order, and address management",
     link: "https://ecom-project1-frontend.vercel.app/",
   },
-  {
+    {
     id: 3,
+    title: "200k Products data",
+    description:
+      "•	Built a scalable full-stack product management system using React, Vite, Tailwind CSS, Node.js, Express, and PostgreSQL (Neon), managing 200K+ product records with cursor-based pagination, category filtering, RESTful APIs, and database indexing. Optimized query performance using PostgreSQL indexes and implemented responsive UI components for efficient large-scale data browsing and retrieval.",
+    link: "https://project-200-frontend.vercel.app/",
+  },
+
+  {
+    id: 4,
     title: "Shoe-Store",
     description:
       "Built a Responsive Shoe Brand Landing Page with the help of react and tailwind css.",
     link: "https://shoe-brand-mu.vercel.app/",
   },
   {
-    id: 4,
+    id: 5,
     title: "InAmigos foundation Landing Page",
     description:
       "Responsive Landing page design with the help of react and tailwind css and javascript.",
     link: "https://in-amigos-page.vercel.app/",
   },
   {
-    id: 5,
+    id: 6,
     title: "Landing Page 2",
     description:
       "Responsive Landing page design with the help of html and css only.",
     link: "https://landing-page-2-vert.vercel.app/",
-  },
-  {
-    id: 6,
-    title: "Landing Page 3",
-    description:
-      "Landing page design with the help of html css and javascript, Add Animations with GSAP.",
-    link: "https://landing-page-3-self-eight.vercel.app/",
   },
 ];
 
