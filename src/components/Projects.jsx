@@ -2,42 +2,44 @@
 import React from "react";
 
 const projects = [
-  {
+   {
     id: 1,
-    title: "Multi-Role-Dashboard",
-    description: "Developed a secure Multi-Role Dashboard using TypeScript, React, HeroUI, and TanStack Query, implementing JWT-based authentication, role-based access control (RBAC) for Admin, User, and Manager roles, protected routes, and token verification. Built with a scalable MERN architecture, featuring efficient data fetching and caching, responsive UI components, and secure role-based authorization to ensure controlled access and seamless user management.",
-    link: "https://dc-react-assignment-frontend.vercel.app/",
+    title: "Dynamic Data Management Dashboard",
+    description:
+      "Built a full-stack React app using TanStack Router for file-based routing, TanStack Form with Zod for validation, and TanStack Query for data fetching, caching, and CRUD via useMutation, keeping frontend and backend in sync",
+    link: "https://in-amigos-page.vercel.app/",
   },
-
   {
     id: 2,
+    title: "Multi-Role Dashboard",
+    description: "Developed a secure Multi-Role Dashboard (TypeScript, React, HeroUI, TanStack Query) with JWT authentication, RBAC for Admin/User/Manager roles, protected routes, and MERN architecture for scalable, efficient data fetching and seamless user management.",
+    link: "https://dc-react-assignment-frontend.vercel.app/",
+  },
+ 
+
+  {
+    id: 3,
     title: "E-commerce App",
     description:
       "E-Commerce app with secure authentication, product browsing, cart, order, and address management",
     link: "https://ecom-project1-frontend.vercel.app/",
   },
     {
-    id: 3,
+    id: 4,
     title: "200k Products data",
     description:
-      "•	Built a scalable full-stack product management system using React, Vite, Tailwind CSS, Node.js, Express, and PostgreSQL (Neon), managing 200K+ product records with cursor-based pagination, category filtering, RESTful APIs, and database indexing. Optimized query performance using PostgreSQL indexes and implemented responsive UI components for efficient large-scale data browsing and retrieval.",
+      "Built a scalable full-stack product management system (React, Vite, Tailwind, Node.js, Express, PostgreSQL/Neon) handling 200K+ records with cursor-based pagination, category filtering, RESTful APIs, and indexed queries for fast large-scale data retrieval.",
     link: "https://project-200-frontend.vercel.app/",
   },
 
   {
-    id: 4,
+    id: 5,
     title: "Shoe-Store",
     description:
       "Built a Responsive Shoe Brand Landing Page with the help of react and tailwind css.",
     link: "https://shoe-brand-mu.vercel.app/",
   },
-  {
-    id: 5,
-    title: "InAmigos foundation Landing Page",
-    description:
-      "Responsive Landing page design with the help of react and tailwind css and javascript.",
-    link: "https://in-amigos-page.vercel.app/",
-  },
+  
   {
     id: 6,
     title: "Landing Page 2",
