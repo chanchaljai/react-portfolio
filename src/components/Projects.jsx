@@ -7,7 +7,7 @@ const projects = [
     title: "Dynamic Data Management Dashboard",
     description:
       "Built a full-stack React app using TanStack Router for file-based routing, TanStack Form with Zod for validation, and TanStack Query for data fetching, caching, and CRUD via useMutation, keeping frontend and backend in sync",
-    link: "https://in-amigos-page.vercel.app/",
+    link: "https://dc-assin-frontend.vercel.app/",
   },
   {
     id: 2,
