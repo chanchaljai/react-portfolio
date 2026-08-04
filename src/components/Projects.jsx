@@ -12,8 +12,8 @@ const projects = [
   {
     id: 2,
     title: "Multi-Role Dashboard",
-    description: "Developed a secure Multi-Role Dashboard (TypeScript, React, HeroUI, TanStack Query) with JWT authentication, RBAC for Admin/User/Manager roles, protected routes, and MERN architecture for scalable, efficient data fetching and seamless user management.",
-    link: "https://dc-react-assignment-frontend.vercel.app/",
+    description: "Developed a secure Multi-Role Dashboard with JWT-based authentication. Backend generates a token on login, identifies the user's role, and dynamically renders the appropriate dashboard with role-specific access and permissions",
+    link: "https://mrdb-1-frontend.vercel.app/",
   },
  
 
